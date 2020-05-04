@@ -46,3 +46,7 @@
 .movie__img {
   width: 100%;
 }
+
+.navbar {
+  text-decoration: none;
+}
